@@ -7,7 +7,6 @@ __pycache__/
 .idea/misc.xml
 .idea/workspace.xml
 .vscode
-build/
 dist/
 env
 resources/
